@@ -4,7 +4,7 @@ KTU 2019 Scheme
 ## AI Programs
 
 1. Basic Search Strategy for AI application
-2. Implementation of state space search algorithm
+2. Implementation of state space search algorithm (Breadth First Search and Deapth First Search)
 3. Implementation of Informed search strategy for Best First Search
 4. Implement Informed search strategy for A* Search
 5. Implement of MINMAX Algorithm
