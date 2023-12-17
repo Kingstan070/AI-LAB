@@ -44,4 +44,7 @@ def best_fs(startnode, explored=[], frontier=[]):
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except KeyError:
+        print("[!] The entered graph is right!")
